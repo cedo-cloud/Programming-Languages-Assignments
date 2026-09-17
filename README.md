@@ -1,6 +1,6 @@
-#GROUP 3
+# GROUP 3
 
-#Group Members
+# Group Members
 | NAME                     | REGISTRATION NUMBER                           |
 | ------------------------ | --------------------------------------------- |
 | Isaac Ngure              | C026-01-0902/2025                             |
